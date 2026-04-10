@@ -1,5 +1,4 @@
-## 제목
-future-cv
+# Future CV
 
 ## 이름
 박규리
